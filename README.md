@@ -27,11 +27,6 @@ This project demonstrates **CRUD operations** (Create, Read, Update, Delete) wit
 
 > You can take a screenshot of your browser with the app running and save it in `screenshots/todo.png`.
 
-### Completed / Pending Status
-![Completed Example](screenshots/completed.png)
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone repository
@@ -76,15 +71,4 @@ Add filtering and search functionality
 Deploy project on Heroku / Vercel
 
 ---
-
-💡 **Tips for you**:  
-
-1. Screenshots folder: `TODO_PROJECT/screenshots/`  
-2. Frontend screenshot: full page of Todo App running  
-3. Completed example screenshot: click “Toggle Complete” and capture  
-
-
-
-Agar chaho, main ye **:contentReference[oaicite:0]{index=0}** bhi bana doon jise **copy-paste kar ke turant upload ho jaye** 😎  
-
-Bol: **“ready GitHub push commands do”**?
+ands do”**?
