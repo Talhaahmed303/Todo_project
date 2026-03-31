@@ -25,7 +25,7 @@ This project demonstrates **CRUD operations** (Create, Read, Update, Delete) wit
 ### React Frontend
 ![Todo App Screenshot](screenshots/todo.png)
 
-> You can take a screenshot of your browser with the app running and save it in `screenshots/todo.png`.
+
 
 ## ⚙️ Setup Instructions
 
